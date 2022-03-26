@@ -1,0 +1,13 @@
+{
+  "Employee": [
+    {
+      "name": "ambesh",
+      "age": "21",
+      "address": "mumbai",
+      "department": "IT",
+      "salary": "50000",
+      "isMarried": false,
+      "id": 1
+    }
+  ]
+}
